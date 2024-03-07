@@ -1,0 +1,3 @@
+[submodule "dependencies/libyuv"]
+	path = dependencies/libyuv
+	url = https://github.com/lemenkov/libyuv
